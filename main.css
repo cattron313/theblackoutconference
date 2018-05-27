@@ -1,0 +1,23 @@
+html, body {
+    height: 100%;
+    font-size: 16px;
+}
+
+#app {
+    background-color: black;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    font-family: 'Sunflower', sans-serif;
+}
+
+h1 {
+    font-size: 5rem;
+    text-shadow: 0 0 10px #000, 0 0 20px #000, 0 0 30px #4e95ad, 0 0 40px #00c0ff, 0 0 70px #00c0ff, 0 0 80px #00c0ff, 0 0 100px #00c0ff, 0 0 150px #00c0ff;
+}
+
+h2 {
+    color: rgba(0, 192, 255, 0.52);
+}
